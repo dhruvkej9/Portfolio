@@ -12,7 +12,7 @@ Delhi, India<br />
 
 **Lancer’s Convent**  
 High School  <br />
-Percentage (12th): 90%<br />  
+Percentage (12th): 90% 
 Delhi, India<br />
 
 ## Work Experience
