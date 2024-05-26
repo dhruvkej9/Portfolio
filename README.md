@@ -1,19 +1,19 @@
-# Dhruv Kejriwal\n
-Full Stack Developer | Machine Learning Engineer\n
-Delhi, India\n
-+91 8076538956 | dhruvkejri9@gmail.com\n
-[LinkedIn](LinkedIn) | [GitHub](GitHub)\n
+# Dhruv Kejriwal<br />
+Full Stack Developer | Machine Learning Engineer<br />
+Delhi, India<br />
++91 8076538956 | dhruvkejri9@gmail.com<br />
+[LinkedIn](LinkedIn) | [GitHub](GitHub)<br />
 
 ## Education
 **Delhi Technological University (DTU)**
-B.Tech in Mathematics and Computing (MCE)  
-CGPA: 9.327/10.00 (Up to 4th sem)  
-Delhi, India
+B.Tech in Mathematics and Computing (MCE)<br /> 
+CGPA: 9.327/10.00 (Up to 4th sem)<br />
+Delhi, India<br />
 
 **Lancer’s Convent**  
-High School  
-Percentage (12th): 90%  
-Delhi, India
+High School  <br />
+Percentage (12th): 90%<br />  
+Delhi, India<br />
 
 ## Work Experience
 **n0c tech (hardtech start-up)**  
