@@ -17,7 +17,7 @@ Delhi, India<br />
 
 ## Work Experience
 **n0c tech (hardtech start-up)**  
-Full Stack Developer Intern and Founding member  
+**Full Stack Developer Intern and Founding member**  
 Nov 2023 – Present
 - Developed web applications using Next.js, Express.js, and MySQL.
 - Utilized AWS EC2 for website deployment, AWS SES for email services, AWS S3 for cloud storage, and Vercel for testing deployment.
