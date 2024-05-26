@@ -1,5 +1,5 @@
 # Dhruv Kejriwal
-Full Stack Developer | Machine Learning Engineer \n
+Full Stack Developer | Machine Learning Engineer
 Delhi, India
 +91 8076538956 | dhruvkejri9@gmail.com
 [LinkedIn](LinkedIn) | [GitHub](GitHub)
