@@ -36,12 +36,12 @@ Jul 2022 – May 2023
 
 ## Projects
 **Signature Verification**  
-[a https://github.com/dhruvkej9/SignatureVerification](Signature Verification GitHub)
+[https://github.com/dhruvkej9/SignatureVerification](Signature Verification GitHub)
 - Implemented preprocessing techniques and trained deep learning models for signature verification using Tensorflow and Keras.
 - Evaluated model performance and fine-tuned for improved accuracy.
 
 **Drona (AI-Aim Trainer)**  
-[a https://github.com/dhruvkej9/Aim-Tracker](Drona GitHub)
+[https://github.com/dhruvkej9/Aim-Tracker](Drona GitHub)
 - Developed an AI-aim trainer using computer vision during a hackathon.
 - Integrated an open-source Aim Game with OpenCV and MediaPipe, controlled by eye movement.
 
