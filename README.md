@@ -5,12 +5,12 @@ Delhi, India<br />
 [LinkedIn](LinkedIn) | [GitHub](GitHub)<br />
 
 ## Education
-**Delhi Technological University (DTU)**
+**Delhi Technological University (DTU)**<br />
 B.Tech in Mathematics and Computing (MCE)<br /> 
 CGPA: 9.327/10.00 (Up to 4th sem)<br />
 Delhi, India<br />
 
-**Lancer’s Convent**  
+**Lancer’s Convent**<br />
 High School<br />
 Percentage (12th): 90%<br />
 Delhi, India<br />
