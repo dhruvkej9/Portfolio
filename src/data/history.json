@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Full Stack Developer Intern and Founding Member",
+    "organisation": "n0c tech",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Developed web apps using Next.js, Express.js, and MySQL",
+      "Deployed with AWS EC2, SES, S3, and Vercel",
+      "Managed code with Git and Gitlab"
+    ],
+    "imageSrc": "history/n0c_tech.png"
+  },
+  {
+    "role": "Team Lead and Founding Member",
+    "organisation": "n0c tech",
+    "startDate": "Jun, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Set team goals and ensured achievement",
+      "Solved technical challenges in various technologies for carbon capture system"
+    ],
+    "imageSrc": "history/n0c_tech.png"
+  },
+  {
+    "role": "Machine Learning Engineer Intern",
+    "organisation": "n0c tech",
+    "startDate": "Jul, 2022",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Researched methods to calculate carbon emissions using Selenium and Pandas",
+      "Developed algorithms for emissions calculations and visualizations with Matplotlib, Numpy, and Pandas"
+    ],
+    "imageSrc": "history/n0c_tech.png"
+  }
+]

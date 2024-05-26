@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Signature Verification",
+    "imageSrc": "projects/SignatureVerification.png",
+    "description": "This project is designed to identify real and forged signatures.",
+    "skills": [
+      "NumPy",
+      "OpenCV",
+      "TensorFlow",
+      "Keras",
+      "Matplotlib",
+      "Sklearn"
+    ],
+    "demo": "https://github.com/dhruvkej9/SignatureVerification",
+    "source": "https://github.com/dhruvkej9/SignatureVerification"
+  },
+  {
+    "title": "Drona (AI-Aim Trainer)",
+    "imageSrc": "projects/drona.png",
+    "description": "This project, developed during a hackathon, involves reconstructing an open-source aim game and enabling control through eye movement via the camera.",
+    "skills": [
+      "OpenCV",
+      "MediaPipe",
+      "Django"
+    ],
+    "demo": "http://dhruvkej9.pythonanywhere.com/",
+    "source": "https://github.com/dhruvkej9/Aim-Tracker"
+  }
+]
