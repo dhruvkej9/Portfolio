@@ -11,8 +11,8 @@ CGPA: 9.327/10.00 (Up to 4th sem)<br />
 Delhi, India<br />
 
 **Lancer’s Convent**  
-High School  <br />
-Percentage (12th): 90% 
+High School<br />
+Percentage (12th): 90%<br />
 Delhi, India<br />
 
 ## Work Experience
